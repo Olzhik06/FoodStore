@@ -66,13 +66,13 @@ Services communicate with each other using **gRPC**.
 
 bash
 FoodStore/
-├── APIGATEWAY/
-├── Menu_service/
-├── Order_service/
-├── User_service/
-├── Payment_service/
-├── Frontend/
-└── README.md
+APIGATEWAY/
+Menu_service/
+Order_service/
+User_service/
+Payment_service/
+Frontend/
+README.md
 
 ---
 
@@ -81,11 +81,11 @@ FoodStore/
 Each service contains:
 
 bash
-├── handler/
-├── service/
-├── dao/ (or repository/)
-├── model/
-└── main.go
+handler/
+service/
+dao/
+model/
+main.go
 
 ---
 
