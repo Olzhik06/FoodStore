@@ -64,7 +64,7 @@ Services communicate with each other using **gRPC**.
 
 ## 📂 Project Structure (Simplified)
 
-bash`
+bash
 FoodStore/
 ├── APIGATEWAY/
 ├── Menu_service/
@@ -72,7 +72,7 @@ FoodStore/
 ├── User_service/
 ├── Payment_service/
 ├── Frontend/
-└── README.md`
+└── README.md
 
 ---
 
@@ -80,12 +80,12 @@ FoodStore/
 
 Each service contains:
 
-bash`
+bash
 ├── handler/
 ├── service/
 ├── dao/ (or repository/)
 ├── model/
-└── main.go`
+└── main.go
 
 ---
 
