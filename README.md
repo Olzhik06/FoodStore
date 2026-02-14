@@ -91,7 +91,7 @@ Each service contains:
 ⚠️ Note: Each service should be run separately.
 
 Clone the repository:
-git clone https://github.com/your-username/FoodStore.git
+git clone https://github.com/Olzhik06/FoodStore.git
 cd FoodStore
 Run a service (example: Menu Service):
 cd Menu_service
