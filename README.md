@@ -64,14 +64,14 @@ Services communicate with each other using **gRPC**.
 
 ## 📂 Project Structure (Simplified)
 
-FoodStore/
-APIGATEWAY/
-Menu_service/
-Order_service/
-User_service/
-Payment_service/
-Frontend/
-README.md
+- FoodStore/
+- APIGATEWAY/
+- Menu_service/
+- Order_service/
+- User_service/
+- Payment_service/
+- Frontend/
+- README.md
 
 ---
 
@@ -79,11 +79,11 @@ README.md
 
 Each service contains:
 
-handler/
-service/
-dao/
-model/
-main.go
+- handler/
+- service/
+- dao/
+- model/
+- main.go
 
 ---
 
